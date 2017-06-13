@@ -11,6 +11,6 @@ def printExercise():
     return None
 
 if len(welcomeMessage) != 91:
-    sys.exit("Nice try, but not quite right :)")
+    sys.exit("Nice try, but not quite right :) :)")
 
 print(printWelcomeText())
