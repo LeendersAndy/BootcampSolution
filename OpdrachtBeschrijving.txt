@@ -1,11 +1,11 @@
 Dag potentiele bootCamp deelnemer,
 
-Aller eerst bedankt dat je je hebt opgegeven voor de bootCamp, we zijn er erg blij mee. Helaas zijn er meer dan 20 inschrijvingen en
-maar 7 plekken beschikbaar. Vandaar deze opdracht.
+Aller eerst bedankt dat je je hebt opgegeven voor de bootCamp, we zijn er erg blij mee. Helaas zijn er rond de 20 inschrijvingen en
+maar 10 plekken beschikbaar. Vandaar deze opdracht.
 
 Schiet niet in de stress, neem je tijd (wel op tijd af natuurlijk :) ) en hopelijk tot snel.
 
-William, Tim, Marc en Michel
+William, Tim en Michel
 
 Opdracht:
 
@@ -18,5 +18,7 @@ Let op, voorwaarde: voeg de motivatie tekst toe aan de printExercise functie.
 3.) commit&push je code naar de git repo, pas op dat je in je eigen branch blijft.
 
 4.) Niet mergen!
+
+Tip: code opbouw, stijl en best practises worden ook allemaal meegenomen in de beoordeling.
 
 #ExerciseDone 
