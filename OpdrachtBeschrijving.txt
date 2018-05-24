@@ -9,7 +9,7 @@ William, Tim en Michel
 
 Opdracht:
 
-1.) Schrijf in max 150 woorden jouw motivatie om deel te nemen aan de eerste bootcamp.
+1.) Schrijf in max 150 woorden jouw motivatie om deel te nemen aan de automation bootcamp.
 
 2.) Voeg dit stuk tekst toe aan de python code zodat deze wordt geprint in de console wanneer je de code runt. De code vindt je in exercises/exerciseOne.py
 Let op, voorwaarde: voeg de motivatie tekst toe aan de printExercise functie.  
@@ -19,6 +19,8 @@ Let op, voorwaarde: voeg de motivatie tekst toe aan de printExercise functie.
 
 4.) Niet mergen!
 
-Tip: code opbouw, stijl en best practises worden ook allemaal meegenomen in de beoordeling.
+Tip: code opbouw, stijl en best practises worden ook allemaal meegenomen in de beoordeling. Deze kunnen zelfs de doorslag geven betreft toelating indien er meerdere geschikte kandidaten zijn.
+
+Succes!
 
 #ExerciseDone 
