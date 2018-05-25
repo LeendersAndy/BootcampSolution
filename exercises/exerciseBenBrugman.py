@@ -50,8 +50,9 @@ def get_error_text():
     if response.status_code == 200:
         error_text = json.loads(response.content.decode('utf-8'))
         return error_text[0]['text']
+    elif response.status_code == 404:
+        return "404"
     else:
         return None
 
-
-run_exercise()
+    run_exercise()
