@@ -1,16 +1,13 @@
 #!/usr/bin/python
 import sys
 
-welcomeMessage = "Welkom bij de bootcamp toelatings opdracht. Werk alsjeblieft zorgvuldig en netjes. Succes!!"
-
-def printWelcomeText():
-    welcome = welcomeMessage
-    return welcome
+motivationMessage = "\b Hallo heren, mijn naam is Freek Ruskus en ik wil graag de kant van het technisch testen opgaan. \n Eind Juni loopt mijn huidige opdracht af en ik heb inmiddels te horen gekregen dat ik potentieel een technische opdracht kan gaan overnemen. \n Deze opdracht blijkt van vrij hoog niveau te zijn, en momenteel heb ik enkel de technische kennis die ik tijdens de Masterclass heb opgedaan tot mijn beschikking. \n Via de Summer Automation Bootcamp zou ik een veel sterkere kennisbasis kunnen opdoen die ik dan ook meteen kan inzetten bij deze nieuwe opdracht. \n"
 
 def printExercise():
-    return None
+    motivation = motivationMessage
+    return motivation
 
-if len(welcomeMessage) != 91:
-    sys.exit("Nice try, but not quite right :)")
+if len(motivationMessage.split()) > 150:
+    sys.exit("\b motivationalMessage is too long. Max 150 words.")
 
-print(printWelcomeText())
+print(printExercise())
