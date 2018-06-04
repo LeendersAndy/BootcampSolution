@@ -1,0 +1,9 @@
+
+William, Tim en Michel,
+In Mei 2016 ben ik begonnen in de Masterclass. 
+Na mijn eerste opdracht ben ik in Februari 2017 bij Enrise terecht gekomen.
+Tijdens deze opdracht heb ik de FutureProof leergang gedaan. Hier is mij duidelijk geworden dat het testautomatiseren mij veel energie brengt.
+Bij Enrise heb ik de eerste stappen gezet in testautomatisering. Ik merk dat ik hier nog veel stappen te maken heb en deze ook wil maken!
+Ik zie een enorme uitdaging om een goed test framework neer te zetten. Een test framework welke duidelijk, gestructureerd, onderhoudbaar en gemakkelijk uit te breiden is. Zodat de standaard functionaliteiten voldoende getest worden en ik niet elke keer hetzelfde hoef te testen.
+Maar ik wil bovenal meedoen aan de bootcamp, omdat ik er plezier in heb. Ik wil hier beter in worden en tijd in steken, omdat ik het leuk vind en energie van krijg.
+Bjorn Geerding
