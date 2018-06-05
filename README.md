@@ -1,2 +1,3 @@
 # BootcampOpdracht
-Repository voor de Bootcamp opdracht.
+Eerste de code runnen, voor je hem leest!
+
